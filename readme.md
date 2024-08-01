@@ -25,9 +25,9 @@ Nosso projeto web é feito utilizando HTML5, CSS3 e JavaScript, com o objetivo d
 
 > Para cada aula eu crio um arquivo no formato markdown com algumas explicações e trechos de códigos para agilizar seus estudos e desenvolvimento. Segue abaixo a listagem de aulas:
 
-1. [Projeto Completo Studio Ghibli | Desafio 5 CodeLab](https://github.com/edsonmaia/studio-ghibli/blob/main/docs/projeto-studio-ghibli.md)
+1. [Projeto Completo Studio Ghibli | Desafio 5 CodeLab](https://github.com/edsonmaia/desafio-studio-ghibli/blob/main/docs/projeto-studio-ghibli.md)
 
-2. [Projeto Completo Studio Ghibli | Desafio 5 CodeLab Responsividade](https://github.com/edsonmaia/studio-ghibli/blob/main/docs/projeto-studio-ghibli-responsividade.md)
+2. [Projeto Completo Studio Ghibli | Desafio 5 CodeLab Responsividade](https://github.com/edsonmaia/desafio-studio-ghibli/blob/main/docs/projeto-studio-ghibli-responsividade.md)
 
 ## Vídeos no YouTube
 
